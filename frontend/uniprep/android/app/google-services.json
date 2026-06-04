@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66917612436",
+    "project_id": "uniprep-cd57b",
+    "storage_bucket": "uniprep-cd57b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66917612436:android:63a0ce298937b275e7ad81",
+        "android_client_info": {
+          "package_name": "com.example.uniprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66917612436-pejnd8665q4cu0vbpcqmptfepn9cvdu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6A1qzPK-TJrKWsA9gJpRynUsfsq3Mxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66917612436-pejnd8665q4cu0vbpcqmptfepn9cvdu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
