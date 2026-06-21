@@ -24,5 +24,5 @@ class AppColors {
 
   static const lightBorder = Color(0xFFE0E0E0);
 
-  static const lightFab = Color(0xFF3D5AF1); //Color(0xFF1DB954);
+  static const lightFab = Color.fromARGB(255, 234, 70, 11); //Color(0xFF1DB954);
 }

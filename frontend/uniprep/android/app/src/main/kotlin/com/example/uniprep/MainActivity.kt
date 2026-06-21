@@ -1,4 +1,4 @@
-package com.example.uniprep
+package com.tejavarshith.uniprep
 
 import io.flutter.embedding.android.FlutterActivity
 

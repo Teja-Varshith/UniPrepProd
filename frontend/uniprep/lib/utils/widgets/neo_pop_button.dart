@@ -16,7 +16,7 @@ class _NeoPopLogoButtonState extends State<NeoPopLogoButton>
   late AnimationController _controller;
   late Animation<double> _pressAnimation;
 
-  static const double _size = 70.0;
+  static const double _size = 80.0;
   static const double _shadowOffsetX = 5.0;
   static const double _shadowOffsetY = 5.0;
 
@@ -105,7 +105,7 @@ class _NeoPopLogoButtonState extends State<NeoPopLogoButton>
                     ),
                     child: ClipOval(
                       child: Image.asset(
-                        'assets/icons/UniSync1.png',
+                        'assets/images/Placeio.png',
                         fit: BoxFit.cover,
                       ),
                     ),
